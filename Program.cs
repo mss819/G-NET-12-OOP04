@@ -33,6 +33,13 @@
 
             #endregion
 
+            #region Question 3
+
+            //virtual => تسمح للـ method إنها تتعمل override
+            //override => إعادة تعريف الميثود
+            //base => تنادي على الميثود الأصلية
+
+            #endregion
         }
     }
 }
