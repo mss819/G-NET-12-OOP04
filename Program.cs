@@ -4,7 +4,18 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region Question 1
+
+           //            Static Binding
+           //بيحصل وقت الـ Compile
+           //زي: Method Overloading
+           //أسرع
+           //Dynamic Binding
+           //بيحصل وقت الـ Runtime
+           //زي: Method Overriding
+           //بيعتمد على نوع الـ object الحقيقي
+
+            #endregion
         }
     }
 }
